@@ -3,7 +3,7 @@
 <p align="center">Desenvolvedor apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento.</p>
 
 ## 🛠️ Tecnologias que uso
-Python|Java|SQL|HTML|CSS|JavaScript
+Python | Java | SQL | HTML | CSS | JavaScript
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kdsea&show_icons=true&theme=radical)
